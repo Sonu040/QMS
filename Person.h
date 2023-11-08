@@ -1,12 +1,14 @@
 #ifndef PERSON_H
 #define PERSON_H
 #include<string>
+#include<bits/stdc++.h>
+using namespace std;
 
 class Person
 {
     private:
-        std::string name;
-    std::string address;
+        name;
+        address;
     int age;
     int room_no;
     int floor;
