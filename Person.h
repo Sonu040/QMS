@@ -7,8 +7,8 @@ using namespace std;
 class Person
 {
     private:
-        name;
-        address;
+    string name;
+    string address;
     int age;
     int room_no;
     int floor;
